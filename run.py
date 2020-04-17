@@ -8,15 +8,15 @@ from slam import slam
 
 #Set the following parameters:
     # world parameters
-num_landmarks      = 5        # number of landmarks
+num_landmarks      = 15       # number of landmarks
 N                  = 20       # time steps
-world_size         = 100.0    # size of world (square)
+world_size         = 15.0    # size of world (square)
 
     # robot parameters
-measurement_range  = 50.0     # range at which we can sense landmarks
+measurement_range  = 12.0     # range at which we can sense landmarks
 motion_noise       = 2.0      # noise in robot motion
 measurement_noise  = 2.0      # noise in the measurements
-distance           = 20.0     # distance by which robot (intends to) move each iteratation 
+distance           = 3.0     # distance by which robot (intends to) move each iteratation 
 
 
 
