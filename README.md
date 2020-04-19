@@ -1,5 +1,5 @@
 # SLAM-2D
-A robust method for Landmark Tracking (Mapping) and Localization in 2D space, using probability, motion models and linear algebra. This is the third and _final_ project of the [*Udacity's Computer Vision Nanodegree*](https://www.udacity.com/course/computer-vision-nanodegree--nd891).
+A robust method for Landmark Tracking and self Localization in 2D space, using probability, motion models and linear algebra. This is the third and _final_ project of the [*Udacity's Computer Vision Nanodegree*](https://www.udacity.com/course/computer-vision-nanodegree--nd891).
 
 ### Project Overview
 
